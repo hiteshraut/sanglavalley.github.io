@@ -30,6 +30,7 @@
 	background-size: cover;
 	height: 100%;
 	width: 100%;
+	min-height: 450px;
 }
 
 
@@ -95,7 +96,7 @@
 	display: table-cell;
 	vertical-align: middle;
 	color: #ebebeb;
-	padding: 0 8%;
+	padding: 185px 8%;
 	text-align: center
 }
 .hsContent h2,

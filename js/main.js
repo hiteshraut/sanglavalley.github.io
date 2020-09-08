@@ -230,7 +230,7 @@
 
 	var bodyEl = document.body,
 	videoWrap = document.querySelector('.video-wrap'),
-	videoEl = document.querySelector('video'),
+	videoEl = videoWrap.querySelector('video'),
 	playCtrl = document.querySelector('.action--play'),
 	closeCtrl = document.querySelector('.action--close');
 
